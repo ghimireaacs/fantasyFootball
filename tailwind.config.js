@@ -12,6 +12,13 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        darkBackground: "#0D0D0D", // Dark background color (Black or near black)
+        neonGreen: "#D9FF00", // Neon green accent color
+        vibrantBlue: "#3B82F6", // Vibrant blue for buttons and accents
+        whiteText: "#FFFFFF", // White for main text
+        mutedBlack: "#1C1C1C", // Muted black for additional elements
+      },
     },
   },
   plugins: [],
